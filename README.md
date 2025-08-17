@@ -82,4 +82,4 @@ I also created an interactive dashboard in Tableau based on this analysis:
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/jakub.ko.paczy.ski/viz/ApartmentRentalMarket/Dashboard1)
 
 ## Contact
-Author: Jakub Kołpczyński  GitHub: [(https://github.com/jakubkolpaczynski]
+Author: Jakub Kołpaczyński  GitHub: https://github.com/jakubkolpaczynski
