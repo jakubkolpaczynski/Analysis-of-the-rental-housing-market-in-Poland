@@ -30,7 +30,7 @@ The dataset `apartments_rent_pl_2024_06.csv` contains **8,849 records** and **28
 
 ### Rent Prices by Room Count (Excluding Warsaw)
 
-![Rent Prices by Rooms](plots/rent_by_rooms.png)
+![Rent Prices by Rooms](rent_by_rooms.png)
 
 ### Rent Prices by Property Type
 
