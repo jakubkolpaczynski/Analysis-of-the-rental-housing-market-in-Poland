@@ -30,19 +30,19 @@ The dataset `apartments_rent_pl_2024_06.csv` contains **8,849 records** and **28
 
 ### Rent Prices by Room Count (Excluding Warsaw)
 
-![Rent Prices by Rooms](images/rent_by_rooms.png)
+![Rent Prices by Rooms](plots/rent_by_rooms.png)
 
 ### Rent Prices by Property Type
 
-![Rent Prices by Type](images/rent_by_type.png)
+![Rent Prices by Type](plots/rent_by_type.png)
 
 ### Apartment Size by Property Type
 
-![Square Meters by Type](images/size_by_type.png)
+![Square Meters by Type](plots/size_by_type.png)
 
 ### Price Distribution (Excluding Warsaw)
 
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](plots/price_distribution.png)
 
 ## Predictive Modeling
 
@@ -57,15 +57,15 @@ Built a **Linear Regression** model to predict rental prices based on:
 
 ### Actual vs Predicted Prices
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](plots/actual_vs_predicted.png)
 
 ### Feature Impact on Price
 
-![Feature Coefficients](images/feature_impact.png)
+![Feature Coefficients](plots/feature_impact.png)
 
 ### Residuals Distribution
 
-![Residuals](images/residuals.png)
+![Residuals](plots/residuals.png)
 
 ## Warsaw vs Other Cities
 
